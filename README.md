@@ -5,6 +5,7 @@
 <img align="right" alt="pixel cat" width="400" src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif"/>
 
 ## About me
+🧸 I really enjoy learning new things and exploring technology. I like walking, listening to music, finding beauty in simple things, and spending time discovering new ideas whenever curiosity appears 🌷
 🎀 · Dev in progress  
 🍂 · In my Next.js era  
 🍓 · Music, strawberry juice, and wrapped in a good book  
