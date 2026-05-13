@@ -1,27 +1,25 @@
 # Hey Everyone!, I'm Joyce
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=E4C68D&center=true&vCenter=true&width=435&lines=Computer+Science+student;My+gitHub+profile)](https://git.io/typing-svg)
 
-<table>
-  <tr>
-    <td>
-
-# Hey Everyone!, I'm Joyce
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=E4C68D&center=true&vCenter=true&width=435&lines=Computer+Science+student;My+GitHub+profile)](https://git.io/typing-svg)
+<div align="center">
+  <table>
+    <tr>
+      <td>
 
 🎀 · Dev in progress  
 🍂 · In my Next.js era  
 🍓 · Music, strawberry juice, and wrapped in a good book  
 💻 · Figuring out this tech world, one commit at a time
 
-  </td>
+</td>
 
-  <td>
-    <img src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif" width="220"/>
-  </td>
-  
-  </tr>
+<td>
+<img src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif" width="220"/>
+</td>
+
+</tr>
 </table>
+</div>
 ---
 
 ![](https://github-readme-stats.shion.dev/api?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)<br/>
