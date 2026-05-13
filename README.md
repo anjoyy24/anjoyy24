@@ -1,12 +1,10 @@
-<div align="center">
-
-<img align="right" src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif" width="220"/>
+<table>
+<tr>
+<td width="70%" valign="top">
 
 # Hey Everyone!, I'm Joyce
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=E4C68D&center=true&vCenter=true&width=435&lines=Computer+Science+student;My+GitHub+profile)](https://git.io/typing-svg)
-
-</div>
 
 🎀 · Dev in progress  
 🍂 · In my Next.js era  
@@ -15,12 +13,12 @@
 
 </td>
 
-<td valign="middle">
+<td width="30%" align="center">
 <img src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif" width="220"/>
 </td>
+
 </tr>
 </table>
-
 ---
 
 ![](https://github-readme-stats.shion.dev/api?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)
