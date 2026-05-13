@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif" width="320"/>
 </p>
----
 
 ![](https://github-readme-stats.shion.dev/api?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)
 
@@ -19,7 +18,6 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
