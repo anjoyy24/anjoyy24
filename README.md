@@ -1,6 +1,4 @@
-<table>
-<tr>
-<td width="70%" valign="top">
+<img align="right" alt="pixel cat" width="220" src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif"/>
 
 # Hey Everyone!, I'm Joyce
 
@@ -11,14 +9,7 @@
 🍓 · Music, strawberry juice, and wrapped in a good book  
 💻 · Figuring out this tech world, one commit at a time
 
-</td>
-
-<td width="30%" align="center">
-<img src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif" width="220"/>
-</td>
-
-</tr>
-</table>
+<br clear="right"/>
 ---
 
 ![](https://github-readme-stats.shion.dev/api?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)
