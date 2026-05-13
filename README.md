@@ -1,10 +1,12 @@
+<div align="center">
+
+<img align="right" src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif" width="220"/>
+
 # Hey Everyone!, I'm Joyce
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=E4C68D&center=true&vCenter=true&width=435&lines=Computer+Science+student;My+GitHub+profile)](https://git.io/typing-svg)
 
-<table border="0">
-<tr>
-<td valign="middle">
+</div>
 
 🎀 · Dev in progress  
 🍂 · In my Next.js era  
