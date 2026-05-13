@@ -4,6 +4,7 @@
 
 <img align="right" alt="pixel cat" width="400" src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif"/>
 
+## About me
 🎀 · Dev in progress  
 🍂 · In my Next.js era  
 🍓 · Music, strawberry juice, and wrapped in a good book  
@@ -11,15 +12,15 @@
 
 <br clear="right"/> 
 
-
+## Stats
 ![](https://github-readme-stats.shion.dev/api?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)
 
 ![](https://streak-stats.demolab.com/?user=anjoyy24&theme=gruvbox&hide_border=true)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
 
+## Tools and languages
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
@@ -31,8 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
 </p>
 
----
 
+## Social Medias
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joy_enjoys_)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-fernandez-6b585a32b)
