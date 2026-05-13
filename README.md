@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=E4C68D&center=true&vCenter=true&width=435&lines=Computer+Science+student;My+gitHub+profile)](https://git.io/typing-svg)
 
 <div align="center">
-  <table>
+  <table style="border:none;">
     <tr>
       <td>
 
