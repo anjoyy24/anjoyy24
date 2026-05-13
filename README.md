@@ -1,10 +1,14 @@
 # Hey Everyone!, I'm Joyce
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=975F21&center=true&width=600&lines=Computer+Science+student)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=E4C68D&center=true&vCenter=true&width=435&lines=Computer+Science+student;My+gitHub+profile)](https://git.io/typing-svg)
+
 🎀 · dev in progress  
 🍂 · in my Next.js era  
 🍓 · music, strawberry juice, and wrapped in a good book  
 💻 · figuring out this tech world, one commit at a time
 
+<p align="center">
+  <img src="[LINK](https://pin.it/1Eh55FbIB)" width="250"/>
+</p>
 ---
 
 ![](https://github-readme-stats.shion.dev/api?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)<br/>
