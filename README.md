@@ -7,7 +7,7 @@
 💻 · figuring out this tech world, one commit at a time
 
 <p align="center">
-  <img src="[[LINK](https://pin.it/1Eh55FbIB)](https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif)" width="250"/>
+  <img src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif" width="250"/>
 </p>
 ---
 
