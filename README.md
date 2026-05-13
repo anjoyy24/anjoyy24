@@ -4,9 +4,9 @@
 
 <img align="right" alt="pixel cat" width="400" src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif"/>
 
-**About me**
+**🧸 About me**
 <br>
-🧸 I really enjoy learning new things and exploring technology. I like walking, listening to music, finding beauty in simple things, and spending time discovering new ideas whenever curiosity appears 🌷
+I really enjoy learning new things and exploring technology. I like walking, listening to music, finding beauty in simple things, and spending time discovering new ideas whenever curiosity appears 🌷
 
 🎀 · Dev in progress  
 🍂 · In my Next.js era  
@@ -37,8 +37,4 @@
 
 
 ## Social Medias
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joy_enjoys_)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-fernandez-6b585a32b)
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyfq23@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joy_enjoys_)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joyce-fernandez-6b585a32b)[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyfq23@gmail.com)
