@@ -30,6 +30,7 @@ I really enjoy learning new things and exploring technology. I like walking, lis
 
 ## Stats
 ![](https://github-readme-stats.shion.dev/api?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
