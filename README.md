@@ -10,17 +10,10 @@ I really enjoy learning new things and exploring technology. I like walking, lis
 
 🎀 · Dev in progress  
 🍂 · In my Next.js era  
-🍓 · Music, strawberry juice, and wrapped in a good book  
+📖 · Music, strawberry juice, and wrapped in a good book  
 💻 · Figuring out this tech world, one commit at a time
 
 <br clear="right"/> 
-
-## Stats
-![](https://github-readme-stats.shion.dev/api?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=anjoyy24&theme=gruvbox&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## Tools and languages
@@ -34,6 +27,13 @@ I really enjoy learning new things and exploring technology. I like walking, lis
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60"/>
 </p>
+
+## Stats
+![](https://github-readme-stats.shion.dev/api?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=anjoyy24&theme=gruvbox&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 ## Social Medias
