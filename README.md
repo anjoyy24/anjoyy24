@@ -9,8 +9,8 @@
 🍓 · Music, strawberry juice, and wrapped in a good book  
 💻 · Figuring out this tech world, one commit at a time
 
-<br clear="right"/>
----
+<!-- <br clear="right"/> -->
+
 
 ![](https://github-readme-stats.shion.dev/api?username=anjoyy24&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false)
 
