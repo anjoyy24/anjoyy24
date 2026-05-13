@@ -1,41 +1,39 @@
-<h1 align="left">Hey Everyone!, I'm Joyce</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=975F21&center=true&width=435&lines=Computer+Science+student" alt="Typing SVG" /></a>
+# Hey Everyone!, I'm Joyce
 
-<p align="left">🎀 · dev in progress<br>🍂 · in my Next.js era  <br>🍓 · music, strawberry juice, and wrapped in a good book  <br>💻 · figuring out this tech world, one commit at a time</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=975F21&center=true&width=600&lines=Computer+Science+student)
 
-###
+🎀 · dev in progress  
+🍂 · in my Next.js era  
+🍓 · music, strawberry juice, and wrapped in a good book  
+💻 · figuring out this tech world, one commit at a time
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anjoyy24/anjoyy24/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/anjoyy24/anjoyy24/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+## 📊 Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anjoyy24&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anjoyy24&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anjoyy24&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anjoyy24/anjoyy24/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anjoyy24/anjoyy24/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anjoyy24/anjoyy24/pacman-output/pacman-contribution-graph.svg">
-</picture>
+## 🛠 Tech Stack
 
-###
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+</p>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/joy_enjoys_?igsh=MWViaHd5cmJnNDR4aQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joyce-fernandez-6b585a32b?utm_source=share_via&utm_content=profile&utm_medium=member_android)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joyfq23@gmail.com) 
+
+
+---
+[![](https://komarev.com/ghpvc/?username=anjoyy24&icon=0&color=0)](https://visitcount.itsvg.in)
