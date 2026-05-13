@@ -1,6 +1,6 @@
 # Hey Everyone!, I'm Joyce
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=E4C68D&center=true&vCenter=true&width=435&lines=Computer+Science+student;My+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C793&width=435&lines=Computer+science+student)](https://git.io/typing-svg)
 
 <img align="right" alt="pixel cat" width="400" src="https://66.media.tumblr.com/c6f300944fe58f1f2f49e412313c8a17/tumblr_inline_oblkz3tFOW1r2dlqv_540.gif"/>
 
